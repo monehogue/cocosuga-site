@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
-  <rect width="800" height="1000" fill="#f3f4f6"/>
-  <g fill="#d1d5db">
-    <circle cx="400" cy="170" r="70"/>
-    <rect x="340" y="240" width="120" height="200" rx="60"/>
-    <rect x="300" y="420" width="200" height="280" rx="20"/>
-  </g>
-  <text x="50%" y="96%" text-anchor="middle" fill="#9ca3af" font-size="24">On‑Body Placeholder</text>
-</svg>
