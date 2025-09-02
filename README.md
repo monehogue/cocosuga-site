@@ -1,12 +1,1 @@
-# CocoSuga — Netlify‑Ready Site
-
-React + Tailwind, built with Vite.
-
-## Quick start (local)
-1) `npm install`
-2) `npm run dev`
-
-## Deploy on Netlify
-- Drag this folder into a new Netlify site, or connect repo.
-- Build command: `npm run build`
-- Publish directory: `dist`
+# CocoSuga — Stock Pattern Demo\n\nUnsplash images are referenced via source.unsplash.com by photo ID.\n\nNetlify: build command `npm install && npm run build`, publish `dist`.\n
